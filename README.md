@@ -42,4 +42,5 @@ Destroy new drops with VeBot, thanks to its clean and simple user interface.
 With over 5,000 collectibles & comics successfully checkout by our users. VeBot has asserted itself as the #1 bot for VeVe. *track history since October 2021.
 
 **Zip Password: veve**
+
 Virus Total: https://www.virustotal.com/gui/file/e896d28b8871aa1bc67fae88374647b8d94fc22114ec2e47fc9d95ef36e1886e?nocache=1
