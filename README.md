@@ -1,3 +1,5 @@
+**Zip Password: veve**
+
 **WHAT IS VEBOT?**
 
 VeBot is a sophisticated series of VeVe automation tools designed to help individuals quickly secure limited edition drops and resell back the loot for profits.
